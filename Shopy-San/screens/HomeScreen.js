@@ -13,7 +13,7 @@ export default function HomeScreen({ navigation }) {
       </View>
 
       <View style={styles.card}>
-        <Text style={styles.title}>¡Bienvenido!</Text>
+        <Text style={styles.title}>¡putaaaaa!</Text>
         <Text style={styles.subtitle}>Aquí puedes ver tus productos, pedidos y perfil.</Text>
 
         <View style={styles.row}>
